@@ -1,0 +1,12 @@
+#Request
+float64 distance_odom
+float64 distance_lidar
+float64 speed
+
+
+---
+#Response
+string msg 
+string display
+bool ok
+bool moving
